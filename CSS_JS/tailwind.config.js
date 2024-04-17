@@ -15,6 +15,7 @@ tailwind.config= {
          gris:'#EAEAEA',
          noirc:'#2C2C2C',
          blanch_2:'#CFCFCF',
+         bl:'#00FFFF',
          
         },
       }
